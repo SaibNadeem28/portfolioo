@@ -12,7 +12,7 @@ const TAB_DATA = [
         <li>JavaScript</li>
         <li>ReactJs</li>
         <li>NextJs</li>
-        <li>Node.js</li>
+        <li>Nodejs</li>
         <li>Express</li>
         <li>MongoDB</li>
         <li>TailwindCSS</li>
