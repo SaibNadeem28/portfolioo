@@ -21,6 +21,7 @@ const TAB_DATA = [
         <li>CSS</li>
         <li>Bootstrap</li>
         <li>Figma</li>
+        <li>Wordpress</li>
         <li>Git</li>
       </ul>
     ),
@@ -87,7 +88,7 @@ const AboutSection = () => {
             I am a full stack web developer with a passion for creating
             interactive and responsive web applications. I have experience
             working with JavaScript, ReactJS, NextJs, Node.js, Express, MongoDB,
-            TailwindCSS, Framer Motion, HTML, CSS, Bootstrap and Git. I am a quick learner and I am always
+            TailwindCSS, Framer Motion, HTML, CSS, Bootstrap, Wordpress and Git. I am a quick learner and I am always
             looking to expand my knowledge and skill set. I am a team player and
             I am excited to work with others to create amazing applications.
           </p>
